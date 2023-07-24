@@ -11,7 +11,7 @@
 
 <hr/>
 <div align='center'>
-  <img height='70px' width='100%' src='./Imagens/Sobre mim.png' alt='Imagem de indentificaçã'>
+  <img height='70px' width='100%' src='./Imagens/Novo Projeto.png' alt='Imagem de indentificaçã'>
 </div>
 
 <img align='right' src='./Imagens/Menino sentando no pc.gif' border='2'  width='372' height='278px' alt='Gif do menino sentado no pc'>
