@@ -141,8 +141,10 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
+<<<<<<< HEAD
+=======
 
-
+>>>>>>>7864734a8461bee55bba18e909b0fc323ebe04b
 
 <h2>Contate-me<h2>
 <!---Imagem aqui-->
@@ -154,13 +156,15 @@
 
 <p align='center'>
 
-<p> <a href='' target='_blank'>
-  <img height='30px' src='./componentes/icons8-telegram-94.png'>
- </a>Telegram</p>
 
 <p> <a href='' target='_blank'>
   <img height='30px' src='./componentes/icons8-linkedin-logo-24.png'>
  </a>Likedin</p>
+
+
+<p> <a href='' target='_blank'>
+  <img height='30px' src='./componentes/icons8-telegram-94.png'>
+ </a>Telegram</p>
 
 
 </p>
