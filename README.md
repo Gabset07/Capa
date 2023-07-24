@@ -151,7 +151,7 @@
 <!---Imagem aqui-->
  <img align='center' src='' alt=''>
 
- <img align='right' width='185px' height='230' border='2' src='./Imagens/Deitado.gif' alt='Gif do menino deitado'>
+ <img align='right' width='250' height='230' border='2' src='./Imagens/Deitado.gif' alt='Gif do menino deitado'>
  
  <br/><br/>
 
