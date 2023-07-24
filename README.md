@@ -139,8 +139,8 @@
 </tr>
 </table>
 
-<br><br><br><br><br><br><br><br>
-</hr>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr/>
 
 <h2>Contate-me<h2>
 <!---Imagem aqui-->
@@ -148,13 +148,18 @@
 
  <img align='right' width='185px' src='./Imagens/Deitado.gif' alt='Gif do menino deitado'>
  
- <br><br>
+ <br/><br/>
 
 <p align='center'>
 
- <a href='' target='_blank'>
+<p> <a href='' target='_blank'>
   <img height='30px' src='./componentes/icons8-telegram-94.png'>
- </a>
+ </a>Telegram</p>
+
+<p> <a href='' target='_blank'>
+  <img height='30px' src='./componentes/icons8-linkedin-logo-24.png'>
+ </a>Likedin</p>
+
 
 </p>
 <br/><br/>
