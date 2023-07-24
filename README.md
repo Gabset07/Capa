@@ -14,7 +14,7 @@
   <img height='70px' width='100%' src='./Imagens/Novo Projeto.png' alt='Imagem de indentificaçã'>
 </div>
 
-<img align='right' src='./Imagens/Menino sentando no pc.gif' border='2'  width='372' height='278px' alt='Gif do menino sentado no pc'>
+<img align='right' border='3' src='./Imagens/Menino sentando no pc.gif' border='2'  width='372' height='278px' alt='Gif do menino sentado no pc'>
 
 <p align: center>
 <ul>
