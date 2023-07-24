@@ -141,10 +141,8 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
-<<<<<<< HEAD
-=======
 
->>>>>>> 17864734a8461bee55bba18e909b0fc323ebe04b
+
 
 <h2>Contate-me<h2>
 <!---Imagem aqui-->
