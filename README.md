@@ -139,8 +139,9 @@
 </tr>
 </table>
 
-<br><br><br><br><br><br><br><br>
-</hr>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr/>
+
 
 <h2>Contate-me<h2>
 <!---Imagem aqui-->
