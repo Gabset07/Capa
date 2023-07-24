@@ -1,8 +1,6 @@
 <!-- First section -->
 
-<h1>
- 👋Olá,
- me chamo Gabriel. Sou um desenvolvedor Front-End</h1>
+
 
 <!--Add a gif here -->
 <img align='center' width='100%' src='./Imagens/Gif-personalizado.gif'>
@@ -12,7 +10,10 @@
 <div>
 
 <hr/>
-<!-- About me -->
+<div align='center'>
+  <img height='70px' width='100%' src='./Imagens/Sobre mim (2).png' alt='Imagem de indentificaçã'>
+</div>
+
 <img align='right' src='./Imagens/Menino sentando no pc.gif' border='2'  width='372' height='278px' alt='Gif do menino sentado no pc'>
 
 <p align: center>
