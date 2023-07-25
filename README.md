@@ -16,7 +16,7 @@
 
 <img align='right' border='3' src='./Imagens/Menino sentando no pc.gif' border='2'  width='372' height='278px' alt='Gif do menino sentado no pc'>
 
-<p align: center>
+
 <ul>
  <li> 💻 Apreciador da área de tecnologia e tudo que está relacionado a ela.Também curto animes,filmes e jogos.
 
@@ -27,11 +27,11 @@
  <li>📱 Vivendo e aplicando os ecossistemas de React e Angula todos os dias.
  
  <li> 🏋💪Tenho o hábito de me exercitar regurlamente. Adoro aeróbicos,caminhadas e academia.
-</ul>
-<details>
+ <li>
+ <details>
  <summary> Curiosidades:</summary>  
 
-<ul> 
+ <ul> 
   <li> 🤓Tenho um hobby de estudar e aprender outros idiomas. 
  
   <li>🎯Meu nivel no inglês é avançado.
@@ -39,10 +39,12 @@
   <li>🎮 Adoro desenhar.E amo estar imerso em tudo relacionado a arte.
 
   <li>🎸Atualmente estou aprendendo a tocar violão.
-<ul> 
-</details>
-<br>
-<br>
+ </ul> 
+ </details>
+ </li>
+ </ul>
+<br/>
+<br/>
 
 <!-- End of first section -->
 <hr>
