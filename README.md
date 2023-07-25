@@ -50,7 +50,7 @@
 <hr>
 
 <div align='center'>
-  <img height='70px' width='100%' src='./Imagens/Ferramentas.png' alt='Imagem da seção de linguagens e ferramentas'>
+  <img height='80px' width='100%' src='./Imagens/Ferramentas.png' alt='Imagem da seção de linguagens e ferramentas'>
 </div>
 <img align="left"  width='250px' alt='Gif do Jim Carrey' src='./Imagens/Gif-Jim-Carrey.gif'>
 
