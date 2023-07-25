@@ -178,9 +178,9 @@
 
 <hr/>
 
-<h2>Projetos</h2>
-
-<!---Imagem aqui-->
+<div align='center'>
+  <img src='./Imagens/Projetos.png'  height='70px' width='100%'  alt='Imagem da seção de comunicação'>
+</div>
 
 <img align='center' src='' width='' alt=''>
 
