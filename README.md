@@ -145,10 +145,6 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
-<<<<<<< HEAD
-=======
-
->>>>>>>7864734a8461bee55bba18e909b0fc323ebe04b
 
 <div align='center'>
   <img src='./Imagens/Contate-me.png'  height='70px' width='100%'  alt='Imagem da seção de comunicação'>
