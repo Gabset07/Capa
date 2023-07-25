@@ -52,7 +52,7 @@
 <div align='center'>
   <img height='80px' width='100%' src='./Imagens/Ferramentas.png' alt='Imagem da seção de linguagens e ferramentas'>
 </div>
-<img align="left"  width='250px' height='280px' alt='Gif do Jim Carrey' src='./Imagens/Menina teclando.gif'>
+<img align="left"  width='350px' height='280px' border='1' alt='Gif do Jim Carrey' src='./Imagens/Menina teclando.gif'>
 
 <table align='right' height="255px">
 <tr>
