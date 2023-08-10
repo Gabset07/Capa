@@ -180,9 +180,9 @@
 
 <img align='center' src='' width='' alt=''>
 
-<img align='left' src='./Imagens/death-note-light.gif' height='230px' width='380px' alt=''>
+<img align='left' src='./Imagens/death-note-light.gif' height='280px' width='380px' alt=''>
 
-<table height='480px' align='right'>
+<table height='300px' align='right'>
 <tr>
   
   <td align=center>
