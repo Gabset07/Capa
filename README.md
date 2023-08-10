@@ -185,10 +185,79 @@
 <table height='495px' align='right'>
 <tr>
   
-  <td>
-   <a href='https://github.com/Galux17/DBS-Movie'>
-    <img align="center" src="https://Galux17-github-readme-stats.vercel.app/api/pin?username=Galux17&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/></a> 
+  <td align=center>
+   <a href="https://github.com/Galux17/DBS-Movie" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>DBS Project</pre></sub>
   </td>
+
+
+
+  
+<td align=center>
+   <a href="https://github.com/Galux17/Kakegurui-page" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Kakegurui Page</pre></sub>
+</td>
+
+
+
+
+  
+<td align=center>
+   <a href="https://github.com/Galux17/Bleach-Carrossell" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Bleach Carrosell</pre></sub>
+</td>
 </tr> 
 
+<tr>
+<td align=center>
+   <a href="https://github.com/Galux17/listagem-pokemon" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Listagem Pokemon</pre></sub>
+</td>
 
+
+<td align=center>
+   <a href="https://github.com/Galux17/listagem-pokemon" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Listagem Pokemon</pre></sub>
+</td>
+
+<td align=center>
+   <a href="https://github.com/Galux17/projeto-onepiece" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Projeto Onepiece</pre></sub>
+</td>
+</tr>
+
+<tr>
+<td align=center>
+   <a href="https://github.com/Galux17/projeto-marvel" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Projeto Marvel</pre></sub>
+</td>
+
+
+<td align=center>
+   <a href="https://github.com/Galux17/projeto-jojo" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Projeto JOJO</pre></sub>
+</td>
+
+<td align=center>
+   <a href="https://github.com/Galux17/projeto-pokedexv2" target="_blank">
+      <img align="center" height='30px' src="./componentes/folder.png"/>
+    </a>
+    <sub><pre>Pokedex</pre></sub>
+</td>
+</tr>
