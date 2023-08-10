@@ -152,7 +152,7 @@
 <!---Imagem aqui-->
  <img align='center' src='' alt=''>
 
- <img align='right' width='450' height='230' border='2' src='./Imagens/Deitado.gif' alt='Gif do menino deitado'>
+ <img align='right' width='450' height='230px' border='2' src='./Imagens/Deitado.gif' alt='Gif do menino deitado'>
  
  <br/><br/>
 
@@ -180,7 +180,7 @@
 
 <img align='center' src='' width='' alt=''>
 
-<img align='left' src='' height='' alt=''>
+<img align='left' src='./Imagens/death-note-light.gif' height='230px' width='450px' alt=''>
 
 <table height='495px' align='right'>
 <tr>
