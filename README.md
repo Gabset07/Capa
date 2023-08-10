@@ -182,8 +182,13 @@
 
 <img align='left' src='' height='' alt=''>
 
+<table height='495px' align='right'>
 <tr>
   
   <td>
+   <a href='https://github.com/Galux17/DBS-Movie'>
+    <img align="center" src="https://Galux17-github-readme-stats.vercel.app/api/pin?username=Galux17&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/></a> 
+  </td>
+</tr> 
 
 
