@@ -175,7 +175,7 @@
 <hr/>
 
 <div align='center'>
-  <img src='./Imagens/Projetos.png'  height='70px' width='100%'  alt='Imagem da seção de comunicação'>
+  <img src='./Imagens/Projetos.png'  height='70px' width='80%'  alt='Imagem da seção de comunicação'>
 </div>
 
 <img align='center' src='' width='' alt=''>
