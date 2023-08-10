@@ -175,14 +175,14 @@
 <hr/>
 
 <div align='center'>
-  <img src='./Imagens/Projetos.png'  height='70px' width='80%'  alt='Imagem da seção de comunicação'>
+  <img src='./Imagens/Projetos.png'  height='70px' width='100%'  alt='Imagem da seção de comunicação'>
 </div>
 
 <img align='center' src='' width='' alt=''>
 
 <img align='left' src='./Imagens/death-note-light.gif' height='230px' width='380px' alt=''>
 
-<table height='495px' align='right'>
+<table height='480px' align='right'>
 <tr>
   
   <td align=center>
