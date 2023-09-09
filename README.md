@@ -266,7 +266,7 @@
 <hr>
 
 <img align='center' src="./Imagens/Atividades2.png" width='100%' height='70px' >
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
  <img align='center' src='./Imagens/jim-carrey-doing-fast-typing.gif' height='300px' width='300px'>
   <div>
