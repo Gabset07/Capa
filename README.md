@@ -15,7 +15,7 @@
 </div>
 
 <img align='right' border='3' src='./Imagens/Menino sentando no pc.gif' border='2'  width='372' height='278px' alt='Gif do menino sentado no pc'>
-
+<br/><br/>
 
 <ul>
  <li> 💻 Apreciador da área de tecnologia e tudo que está relacionado a ela.Também curto animes,filmes e jogos.
